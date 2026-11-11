@@ -8,7 +8,7 @@ We are a software engineering team based in Kyiv, Ukraine. We design, build, and
 
 - [Legends CRM](https://01devs.it.com/en/work/legends-crm) — a custom CRM with role-based access, operational workflows, and reporting.
 - [EBSH](https://01devs.it.com/en/work/ebsh) — a B2B energy platform with a customer portal and BAS integration. Read the [implementation case study](https://01devs.it.com/en/insights/ebsh-b2b-platform-bas-integration).
-- [MotorMods](https://01devs.it.com/en/work/motormods) — a website and catalog for automotive parts.
+- [MotorMods](https://01devs.it.com/en/work/motormods) — a multilingual auto service website with dedicated service pages and inquiry forms.
 
 ## Engineering demos
 
